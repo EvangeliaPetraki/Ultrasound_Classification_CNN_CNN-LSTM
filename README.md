@@ -18,7 +18,7 @@ The project includes:
 The code is designed to work with the publicly available dataset:
 
 > **Canine Echocardiography Dataset for MMVD Classification (Frame-Level and Case-Level Versions)**  
-> Petraki, E. (2025). Zenodo.  
+> Petraki, E., Koutinas, C., & Vretos, N. (2025).  
 > DOI: [10.5281/zenodo.17683921](https://doi.org/10.5281/zenodo.17683921)
 
 The dataset provides two complementary versions:
