@@ -1,4 +1,4 @@
-# Multiclass & Binary Ultrasound Frame and Video classification 
+# Multiclass & Binary Ultrasound Frame and Video Classification using a CNN and a hybrid CNN-LSTM model
 
 This repository contains the code used in the study:
 
