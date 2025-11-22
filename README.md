@@ -1,4 +1,4 @@
-# Deep Learning for Canine Echocardiography (MMVD Classification)
+# Multiclass & Binary Ultrasound Frame and Video classification 
 
 This repository contains the code used in the study:
 
