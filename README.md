@@ -134,5 +134,12 @@ Video-level evaluation:
 ### Train CNN (example):
 ```bash
 python train_cnn_binary.py --batch_size 16 --lr_resnet 1e-5 --lr_classifier 1e-3 --num_epochs 25
+``` 
 
+## Requirements
+- `Python 3.8+`
+- `PyTorch`
+- `Albumentations`
+- `scikit-learn`
+- `HuggingFace Transformers`
 
