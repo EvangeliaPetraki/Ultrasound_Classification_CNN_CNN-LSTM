@@ -46,7 +46,7 @@ Details about the directory structure are included in the dataset’s own README
 This codebase focuses on **model training and evaluation**.  
 Data collection, raw video extraction, and frame generation are documented separately:
 
-👉 [**Data Collection Repo:**] (https://github.com/EvangeliaPetraki/Ultrasound_Classification/tree/main/Dataset%20Collection%20and%20Preprocessing) 
+👉 **Data Collection Repo:**(https://github.com/EvangeliaPetraki/Ultrasound_Classification/tree/main/Dataset%20Collection%20and%20Preprocessing) 
 
 --- 
 
