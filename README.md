@@ -1,5 +1,6 @@
-#  Multiclass & Binary Ultrasound Frame and Video Classification 
+# Deep Learning for Canine Echocardiography  
 
+### Multiclass & Binary Ultrasound Frame and Video Classification 
 ### ResNet50 CNN & Hybrid CNN–LSTM Models for MMVD Detection in Canine Echocardiography
 
 This repository contains the code used in the study:
